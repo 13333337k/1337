@@ -4,3 +4,5 @@ git config --global user.name "dns_006"
 git config --global user.email "your_email@example.com"
 
 Html-HyperText Mark up Language-Гіпертектова мова розмітки
+Гипертекст -текст із виключенням фрагментів які спримаються
+в якому керуючих елементів (программу коду)
